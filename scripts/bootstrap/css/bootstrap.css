@@ -224,7 +224,7 @@ textarea {
 body {
   margin: 0;
   background: url('../../../files/pixel_weave.png');
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   line-height: 20px;
   color: #333333;
@@ -655,6 +655,7 @@ a:focus {
 
 p {
   margin: 0 0 10px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .lead {
@@ -738,6 +739,7 @@ a.text-success:focus {
 }
 
 .site-title {
+  font-family: 'Raleway', sans-serif;
   margin-left: 10px;
 }
 
